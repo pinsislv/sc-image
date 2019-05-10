@@ -1,0 +1,2 @@
+# sc-image
+command screenshot
